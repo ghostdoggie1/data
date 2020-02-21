@@ -10,12 +10,12 @@
         "MUNICIPIO": "ABALA",
         "LOCALIDAD": "ABALA",
         "CALLE": "9",
-        "NÚMERO": "S/N",
-        "CRUZ..1": "10",
-        "CRUZ..2": "12",
+        "NÃšMERO": "S/N",
+        "CRUZ.1": "10",
+        "CRUZ.2": "12",
         "COLONIA": "Centro",
-        "GEORREFERENCIA": "20°38'46.3"N 89°40'53.7"W",
-        "TIPO.DE.ACCIÓN": "BAÑO"
+        "GEORREFERENCIA": "20Â°38'46.3"N 89Â°40'53.7"W",
+        "TIPO.DE.ACCIÃ“N": "BAÃ‘O"
       },
       "geometry": {
         "type": "Point",
@@ -31,12 +31,12 @@
         "MUNICIPIO": "ABALA",
         "LOCALIDAD": "ABALA",
         "CALLE": "8",
-        "NÚMERO": "S/N",
+        "NÃšMERO": "S/N",
         "CRUZ..1": "9",
         "CRUZ..2": "11",
         "COLONIA": "Centro",
-        "GEORREFERENCIA": "20°38'47.4"N 89°40'48.4"W",
-        "TIPO.DE.ACCIÓN": "PISO"
+        "GEORREFERENCIA": "20Â°38'47.4"N 89Â°40'48.4"W",
+        "TIPO.DE.ACCIÃ“N": "PISO"
       },
       "geometry": {
         "type": "Point",
@@ -52,12 +52,12 @@
         "MUNICIPIO": "ABALA",
         "LOCALIDAD": "ABALA",
         "CALLE": "11",
-        "NÚMERO": "25",
+        "NÃšMERO": "25",
         "CRUZ..1": "12",
         "CRUZ..2": "14",
         "COLONIA": "Centro",
-        "GEORREFERENCIA": "20°38'54.2"N 89°41'03.0"W",
-        "TIPO.DE.ACCIÓN": "PISO"
+        "GEORREFERENCIA": "20Â°38'54.2"N 89Â°41'03.0"W",
+        "TIPO.DE.ACCIÃ“N": "PISO"
       },
       "geometry": {
         "type": "Point",
@@ -73,12 +73,12 @@
         "MUNICIPIO": "ABALA",
         "LOCALIDAD": "ABALA",
         "CALLE": "10",
-        "NÚMERO": "S/N",
+        "NÃšMERO": "S/N",
         "CRUZ..1": "13",
         "CRUZ..2": "15",
         "COLONIA": "Centro",
-        "GEORREFERENCIA": "20°38'58.5"N 89°40'50.4"W",
-        "TIPO.DE.ACCIÓN": "PISO"
+        "GEORREFERENCIA": "20Â°38'58.5"N 89Â°40'50.4"W",
+        "TIPO.DE.ACCIÃ“N": "PISO"
       },
       "geometry": {
         "type": "Point",
@@ -94,12 +94,12 @@
         "MUNICIPIO": "ABALA",
         "LOCALIDAD": "ABALA",
         "CALLE": "6",
-        "NÚMERO": "S/N",
+        "NÃšMERO": "S/N",
         "CRUZ..1": "9",
         "CRUZ..2": "7",
         "COLONIA": "Centro",
-        "GEORREFERENCIA": "20°38'40.6"N 89°40'44.7"W",
-        "TIPO.DE.ACCIÓN": "BAÑO"
+        "GEORREFERENCIA": "20Â°38'40.6"N 89Â°40'44.7"W",
+        "TIPO.DE.ACCIÃ“N": "BAÃ‘O"
       },
       "geometry": {
         "type": "Point",
@@ -115,12 +115,12 @@
         "MUNICIPIO": "ABALA",
         "LOCALIDAD": "ABALA",
         "CALLE": "13",
-        "NÚMERO": "S/N",
+        "NÃšMERO": "S/N",
         "CRUZ..1": "4",
         "CRUZ..2": "S/N",
         "COLONIA": "Centro",
-        "GEORREFERENCIA": "20°38'51.1"N 89°40'33.3"W",
-        "TIPO.DE.ACCIÓN": "BAÑO"
+        "GEORREFERENCIA": "20Â°38'51.1"N 89Â°40'33.3"W",
+        "TIPO.DE.ACCIÃ“N": "BAÃ‘O"
       },
       "geometry": {
         "type": "Point",
@@ -136,12 +136,12 @@
         "MUNICIPIO": "ABALA",
         "LOCALIDAD": "ABALA",
         "CALLE": "6",
-        "NÚMERO": "36",
+        "NÃšMERO": "36",
         "CRUZ..1": "5",
         "CRUZ..2": "7",
         "COLONIA": "Centro",
-        "GEORREFERENCIA": "20°38'36.9"N 89°40'46.2"W",
-        "TIPO.DE.ACCIÓN": "BAÑO"
+        "GEORREFERENCIA": "20Â°38'36.9"N 89Â°40'46.2"W",
+        "TIPO.DE.ACCIÃ“N": "BAÃ‘O"
       },
       "geometry": {
         "type": "Point",
@@ -157,12 +157,12 @@
         "MUNICIPIO": "ABALA",
         "LOCALIDAD": "ABALA",
         "CALLE": "4",
-        "NÚMERO": "S/N",
+        "NÃšMERO": "S/N",
         "CRUZ..1": "9",
         "CRUZ..2": "11",
         "COLONIA": "Centro",
-        "GEORREFERENCIA": "20°38'48.9"N 89°40'45.1"W",
-        "TIPO.DE.ACCIÓN": "BAÑO"
+        "GEORREFERENCIA": "20Â°38'48.9"N 89Â°40'45.1"W",
+        "TIPO.DE.ACCIÃ“N": "BAÃ‘O"
       },
       "geometry": {
         "type": "Point",
@@ -178,12 +178,12 @@
         "MUNICIPIO": "ABALA",
         "LOCALIDAD": "ABALA",
         "CALLE": "15",
-        "NÚMERO": "S/N",
+        "NÃšMERO": "S/N",
         "CRUZ..1": "8",
         "CRUZ..2": "6",
         "COLONIA": "Centro",
-        "GEORREFERENCIA": "N20°38'57.88" W89°40'46.57"",
-        "TIPO.DE.ACCIÓN": "PISO"
+        "GEORREFERENCIA": "N20Â°38'57.88" W89Â°40'46.57"",
+        "TIPO.DE.ACCIÃ“N": "PISO"
       },
       "geometry": {
         "type": "Point",
@@ -199,12 +199,12 @@
         "MUNICIPIO": "ABALA",
         "LOCALIDAD": "ABALA",
         "CALLE": "18",
-        "NÚMERO": "S/N",
+        "NÃšMERO": "S/N",
         "CRUZ..1": "9",
         "CRUZ..2": "11",
         "COLONIA": "Centro",
-        "GEORREFERENCIA": "20°38'52.1"N 89°41'10.9"W",
-        "TIPO.DE.ACCIÓN": "BAÑO"
+        "GEORREFERENCIA": "20Â°38'52.1"N 89Â°41'10.9"W",
+        "TIPO.DE.ACCIÃ“N": "BAÃ‘O"
       },
       "geometry": {
         "type": "Point",
@@ -220,12 +220,12 @@
         "MUNICIPIO": "ABALA",
         "LOCALIDAD": "ABALA",
         "CALLE": "8",
-        "NÚMERO": "250",
+        "NÃšMERO": "250",
         "CRUZ..1": "8",
         "CRUZ..2": "7",
         "COLONIA": "Centro",
-        "GEORREFERENCIA": "20°38'38.5"N 89°40'48.0"W",
-        "TIPO.DE.ACCIÓN": "PISO"
+        "GEORREFERENCIA": "20Â°38'38.5"N 89Â°40'48.0"W",
+        "TIPO.DE.ACCIÃ“N": "PISO"
       },
       "geometry": {
         "type": "Point",
@@ -241,12 +241,12 @@
         "MUNICIPIO": "ABALA",
         "LOCALIDAD": "ABALA",
         "CALLE": "14",
-        "NÚMERO": "S/N",
+        "NÃšMERO": "S/N",
         "CRUZ..1": "5",
         "CRUZ..2": "S/N",
         "COLONIA": "Domicilio Conocido",
-        "GEORREFERENCIA": "20°38'43.5"N 89°41'06.0"W",
-        "TIPO.DE.ACCIÓN": "BAÑO"
+        "GEORREFERENCIA": "20Â°38'43.5"N 89Â°41'06.0"W",
+        "TIPO.DE.ACCIÃ“N": "BAÃ‘O"
       },
       "geometry": {
         "type": "Point",
@@ -262,12 +262,12 @@
         "MUNICIPIO": "ABALA",
         "LOCALIDAD": "ABALA",
         "CALLE": "14",
-        "NÚMERO": "S/N",
+        "NÃšMERO": "S/N",
         "CRUZ..1": "5",
         "CRUZ..2": "S/N",
         "COLONIA": "Domicilio Conocido",
-        "GEORREFERENCIA": "20°38'43.5"N 89°41'06.0"W",
-        "TIPO.DE.ACCIÓN": "PISO"
+        "GEORREFERENCIA": "20Â°38'43.5"N 89Â°41'06.0"W",
+        "TIPO.DE.ACCIÃ“N": "PISO"
       },
       "geometry": {
         "type": "Point",
