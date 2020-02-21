@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Hartford",
+    "lat": 41.76,
+    "lon": -72.67,
+    "optional": "city"
+  },
+  {
+    "name": "Bloomfield",
+    "lat": 41.85,
+    "lon": -72.73,
+    "optional": "suburb"
+  },
+  {
+    "name": "West Hartford",
+    "lat": 41.76,
+    "lon": -72.75,
+    "optional": "suburb"
+  }
+]
