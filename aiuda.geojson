@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "1",
+        "FECHA NAC": "710629",
+        "HOMBRE O MUJER": "M",
+        "MUNICIPIO": "ABALA",
+        "LOCALIDAD": "ABALA",
+        "CALLE": "9 ",
+        "NUMERO": "S/N",
+        "CRUZ. 1": "10 ",
+        "CRUZ. 2": "12 ",
+        "COLONIA": "Centro",
+        "TIPO DE ACCION": "BAÑO"
+        "Latitude": "20.64619"
+        "Longitude":"-89.68157333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.68157333,20.64619]
+      }
+    }
+  ]
+}
