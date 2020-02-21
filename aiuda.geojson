@@ -1,2 +1,2 @@
-{"type": "FeatureCollection","features":[{"type":"Feature","properties":{"ID":"1","FECHA NAC":"710629","Hombre o Mujer":"M","Municipio":"ABALA","Localidad":"ABALA","Calle":"9","Numero":"S/N","Cruz1":"10","Cruz2":"12","Colonia":"Centro","Tipo de accion":"BAÑO","Latitude": "20.64619","Longitude":"-89.68157333"},"geometry": 
+{"type": "FeatureCollection","features":[{"type":"Feature","properties":{"ID":"1","FECHA NAC":"710629","Hombre o Mujer":"M","Municipio":"ABALA","Localidad":"ABALA","Calle":"9","Numero":"S/N","Cruz1":"10","Cruz2": "12","Colonia":"Centro","Tipo de accion":"BAÑO","Latitude": "20.64619","Longitude":"-89.68157333"},"geometry": 
 {"type": "Point","coordinates": [-89.68157333,20.64619]}}]}
