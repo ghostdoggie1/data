@@ -1,0 +1,397 @@
+[
+  {
+    "Region": "Centro",
+    "Municipio": "Cuzama",
+    "Frecuencia": 60
+  },
+  {
+    "Region": "Centro",
+    "Municipio": "Hoctun",
+    "Frecuencia": 180
+  },
+  {
+    "Region": "Centro",
+    "Municipio": "Homun",
+    "Frecuencia": 156
+  },
+  {
+    "Region": "Centro",
+    "Municipio": "Izamal",
+    "Frecuencia": 370
+  },
+  {
+    "Region": "Centro",
+    "Municipio": "Kantunil",
+    "Frecuencia": 19
+  },
+  {
+    "Region": "Centro",
+    "Municipio": "Sanahcat",
+    "Frecuencia": 19
+  },
+  {
+    "Region": "Centro",
+    "Municipio": "Sudzal",
+    "Frecuencia": 19
+  },
+  {
+    "Region": "Centro",
+    "Municipio": "Tekal De Venegas",
+    "Frecuencia": 19
+  },
+  {
+    "Region": "Centro",
+    "Municipio": "Tekanto",
+    "Frecuencia": 19
+  },
+  {
+    "Region": "Centro",
+    "Municipio": "Teya",
+    "Frecuencia": 40
+  },
+  {
+    "Region": "Litoral Centro",
+    "Municipio": "Bokoba",
+    "Frecuencia": 19
+  },
+  {
+    "Region": "Litoral Centro",
+    "Municipio": "Cacalchen",
+    "Frecuencia": 40
+  },
+  {
+    "Region": "Litoral Centro",
+    "Municipio": "Cansahcab",
+    "Frecuencia": 19
+  },
+  {
+    "Region": "Litoral Centro",
+    "Municipio": "Dzemul",
+    "Frecuencia": 130
+  },
+  {
+    "Region": "Litoral Centro",
+    "Municipio": "Dzidzantun",
+    "Frecuencia": 67
+  },
+  {
+    "Region": "Litoral Centro",
+    "Municipio": "Dzilam Gonzalez",
+    "Frecuencia": 19
+  },
+  {
+    "Region": "Litoral Centro",
+    "Municipio": "Motul",
+    "Frecuencia": 460
+  },
+  {
+    "Region": "Litoral Centro",
+    "Municipio": "Muxupip",
+    "Frecuencia": 19
+  },
+  {
+    "Region": "Litoral Centro",
+    "Municipio": "Sinanche",
+    "Frecuencia": 19
+  },
+  {
+    "Region": "Litoral Centro",
+    "Municipio": "Suma",
+    "Frecuencia": 10
+  },
+  {
+    "Region": "Litoral Centro",
+    "Municipio": "Telchac Pueblo",
+    "Frecuencia": 60
+  },
+  {
+    "Region": "Litoral Centro",
+    "Municipio": "Temax",
+    "Frecuencia": 340
+  },
+  {
+    "Region": "Litoral Centro",
+    "Municipio": "Yobain",
+    "Frecuencia": 15
+  },
+  {
+    "Region": "Noreste",
+    "Municipio": "Calotmul",
+    "Frecuencia": 153
+  },
+  {
+    "Region": "Noreste",
+    "Municipio": "Espita",
+    "Frecuencia": 110
+  },
+  {
+    "Region": "Noreste",
+    "Municipio": "Panaba",
+    "Frecuencia": 301
+  },
+  {
+    "Region": "Noreste",
+    "Municipio": "Rio Lagartos",
+    "Frecuencia": 20
+  },
+  {
+    "Region": "Noreste",
+    "Municipio": "San Felipe",
+    "Frecuencia": 30
+  },
+  {
+    "Region": "Noreste",
+    "Municipio": "Sucila",
+    "Frecuencia": 61
+  },
+  {
+    "Region": "Noreste",
+    "Municipio": "Tizimin",
+    "Frecuencia": 1200
+  },
+  {
+    "Region": "Noroeste",
+    "Municipio": "Abala",
+    "Frecuencia": 236
+  },
+  {
+    "Region": "Noroeste",
+    "Municipio": "Acanceh",
+    "Frecuencia": 267
+  },
+  {
+    "Region": "Noroeste",
+    "Municipio": "Baca",
+    "Frecuencia": 19
+  },
+  {
+    "Region": "Noroeste",
+    "Municipio": "Chicxulub Pueblo",
+    "Frecuencia": 15
+  },
+  {
+    "Region": "Noroeste",
+    "Municipio": "Conkal",
+    "Frecuencia": 60
+  },
+  {
+    "Region": "Noroeste",
+    "Municipio": "Ixil",
+    "Frecuencia": 19
+  },
+  {
+    "Region": "Noroeste",
+    "Municipio": "Merida",
+    "Frecuencia": 200
+  },
+  {
+    "Region": "Noroeste",
+    "Municipio": "Mococha",
+    "Frecuencia": 50
+  },
+  {
+    "Region": "Noroeste",
+    "Municipio": "Progreso",
+    "Frecuencia": 79
+  },
+  {
+    "Region": "Noroeste",
+    "Municipio": "Seye",
+    "Frecuencia": 100
+  },
+  {
+    "Region": "Noroeste",
+    "Municipio": "Tahmek",
+    "Frecuencia": 99
+  },
+  {
+    "Region": "Noroeste",
+    "Municipio": "Tecoh",
+    "Frecuencia": 407
+  },
+  {
+    "Region": "Noroeste",
+    "Municipio": "Tixpehual",
+    "Frecuencia": 60
+  },
+  {
+    "Region": "Noroeste",
+    "Municipio": "Ucu",
+    "Frecuencia": 64
+  },
+  {
+    "Region": "Noroeste",
+    "Municipio": "Yaxkukul",
+    "Frecuencia": 10
+  },
+  {
+    "Region": "Oriente",
+    "Municipio": "Chankom",
+    "Frecuencia": 20
+  },
+  {
+    "Region": "Oriente",
+    "Municipio": "Chemax",
+    "Frecuencia": 600
+  },
+  {
+    "Region": "Oriente",
+    "Municipio": "Chichimila",
+    "Frecuencia": 19
+  },
+  {
+    "Region": "Oriente",
+    "Municipio": "Cuncunul",
+    "Frecuencia": 19
+  },
+  {
+    "Region": "Oriente",
+    "Municipio": "Dzitas",
+    "Frecuencia": 19
+  },
+  {
+    "Region": "Oriente",
+    "Municipio": "Peto",
+    "Frecuencia": 910
+  },
+  {
+    "Region": "Oriente",
+    "Municipio": "Tekom",
+    "Frecuencia": 20
+  },
+  {
+    "Region": "Oriente",
+    "Municipio": "Temozon",
+    "Frecuencia": 568
+  },
+  {
+    "Region": "Oriente",
+    "Municipio": "Tixcacalcupul",
+    "Frecuencia": 393
+  },
+  {
+    "Region": "Oriente",
+    "Municipio": "Uayma",
+    "Frecuencia": 19
+  },
+  {
+    "Region": "Oriente",
+    "Municipio": "Valladolid",
+    "Frecuencia": 840
+  },
+  {
+    "Region": "Oriente",
+    "Municipio": "Yaxcaba",
+    "Frecuencia": 530
+  },
+  {
+    "Region": "Poniente",
+    "Municipio": "Celestun",
+    "Frecuencia": 40
+  },
+  {
+    "Region": "Poniente",
+    "Municipio": "Chochola",
+    "Frecuencia": 166
+  },
+  {
+    "Region": "Poniente",
+    "Municipio": "Hunucma",
+    "Frecuencia": 477
+  },
+  {
+    "Region": "Poniente",
+    "Municipio": "Kinchil",
+    "Frecuencia": 70
+  },
+  {
+    "Region": "Poniente",
+    "Municipio": "Kopoma",
+    "Frecuencia": 19
+  },
+  {
+    "Region": "Poniente",
+    "Municipio": "Samahil",
+    "Frecuencia": 19
+  },
+  {
+    "Region": "Sur",
+    "Municipio": "Akil",
+    "Frecuencia": 200
+  },
+  {
+    "Region": "Sur",
+    "Municipio": "Chapab",
+    "Frecuencia": 100
+  },
+  {
+    "Region": "Sur",
+    "Municipio": "Chumayel",
+    "Frecuencia": 20
+  },
+  {
+    "Region": "Sur",
+    "Municipio": "Dzan",
+    "Frecuencia": 200
+  },
+  {
+    "Region": "Sur",
+    "Municipio": "Mama",
+    "Frecuencia": 80
+  },
+  {
+    "Region": "Sur",
+    "Municipio": "Mani",
+    "Frecuencia": 200
+  },
+  {
+    "Region": "Sur",
+    "Municipio": "Mayapan",
+    "Frecuencia": 140
+  },
+  {
+    "Region": "Sur",
+    "Municipio": "Muna",
+    "Frecuencia": 120
+  },
+  {
+    "Region": "Sur",
+    "Municipio": "Oxkutzcab",
+    "Frecuencia": 641
+  },
+  {
+    "Region": "Sur",
+    "Municipio": "Sacalum",
+    "Frecuencia": 100
+  },
+  {
+    "Region": "Sur",
+    "Municipio": "Santa Elena",
+    "Frecuencia": 19
+  },
+  {
+    "Region": "Sur",
+    "Municipio": "Teabo",
+    "Frecuencia": 155
+  },
+  {
+    "Region": "Sur",
+    "Municipio": "Tekax",
+    "Frecuencia": 1160
+  },
+  {
+    "Region": "Sur",
+    "Municipio": "Tekit",
+    "Frecuencia": 18
+  },
+  {
+    "Region": "Sur",
+    "Municipio": "Ticul",
+    "Frecuencia": 680
+  },
+  {
+    "Region": "Sur",
+    "Municipio": "Tzucacab",
+    "Frecuencia": 275
+  }
+] 
