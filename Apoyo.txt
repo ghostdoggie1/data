@@ -1,7 +1,5 @@
-[
-    {
-      "category": "Apoyos",
-      "Hombre": 6395,
-      "Mujere": 8139
-    }
-  ]
+{
+  "category": "Apoyos",
+  "Hombre": 6395,
+  "Mujere": 8139
+  }
