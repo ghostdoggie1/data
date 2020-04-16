@@ -1,0 +1,22 @@
+[
+  {
+    "Grupo Etario": "18-60",
+    "Frecuencia": 23
+  },
+  {
+    "Grupo Etario": "61-65",
+    "Frecuencia": 70
+  },
+  {
+    "Grupo Etario": "66-70",
+    "Frecuencia": 90
+  },
+  {
+    "Grupo Etario": "71-80",
+    "Frecuencia": 168
+  },
+  {
+    "Grupo Etario": "80+",
+    "Frecuencia": 66
+  }
+]
