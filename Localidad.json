@@ -1,0 +1,319 @@
+[
+    {
+      "Localidad": "Otro",
+      "Frecuencia": 289
+    },
+    {
+      "Localidad": "AVILA CAMACHO",
+      "Frecuencia": 4
+    },
+    {
+      "Localidad": " VERGEL III",
+      "Frecuencia": 4
+    },
+    {
+      "Localidad": "MERCEDES BARRERA",
+      "Frecuencia": 4
+    },
+    {
+      "Localidad": "VERGEL III",
+      "Frecuencia": 4
+    },
+    {
+      "Localidad": "NUEVA SAMBULA",
+      "Frecuencia": 4
+    },
+    {
+      "Localidad": "VERGEL IV",
+      "Frecuencia": 4
+    },
+    {
+      "Localidad": "FRACC. LOS HEROES",
+      "Frecuencia": 4
+    },
+    {
+      "Localidad": "COL. SALVADOR ALVARADO SUR",
+      "Frecuencia": 4
+    },
+    {
+      "Localidad": "SANTA ROSA",
+      "Frecuencia": 4
+    },
+    {
+      "Localidad": "VILLA MAGNA DEL SUR",
+      "Frecuencia": 4
+    },
+    {
+      "Localidad": "PEDREGALES DE SAN CAMILO",
+      "Frecuencia": 5
+    },
+    {
+      "Localidad": "SAN PABLO UXMAL",
+      "Frecuencia": 5
+    },
+    {
+      "Localidad": "SAN JOSE TECOH",
+      "Frecuencia": 5
+    },
+    {
+      "Localidad": "NUEVA KUKULCAN",
+      "Frecuencia": 5
+    },
+    {
+      "Localidad": "SALVADOR ALVARADO SUR",
+      "Frecuencia": 5
+    },
+    {
+      "Localidad": "MULCHECHEN",
+      "Frecuencia": 5
+    },
+    {
+      "Localidad": "JESUS CARRANZA",
+      "Frecuencia": 5
+    },
+    {
+      "Localidad": "SAN PEDRO NOH PAT",
+      "Frecuencia": 5
+    },
+    {
+      "Localidad": "BOJORQUEZ",
+      "Frecuencia": 5
+    },
+    {
+      "Localidad": "MAYA",
+      "Frecuencia": 5
+    },
+    {
+      "Localidad": "CIUDAD CAUCEL",
+      "Frecuencia": 6
+    },
+    {
+      "Localidad": "VICENTE SOLIS",
+      "Frecuencia": 6
+    },
+    {
+      "Localidad": "SERAPIO RENDON",
+      "Frecuencia": 6
+    },
+    {
+      "Localidad": "DEL PARQUE",
+      "Frecuencia": 6
+    },
+    {
+      "Localidad": "VICENTE GUERRERO",
+      "Frecuencia": 7
+    },
+    {
+      "Localidad": "MAXIMO ANCONA",
+      "Frecuencia": 7
+    },
+    {
+      "Localidad": "FRANCISCO I MADERO",
+      "Frecuencia": 7
+    },
+    {
+      "Localidad": "SAN ANTONIO DE KAUA",
+      "Frecuencia": 7
+    },
+    {
+      "Localidad": "MIGUEL HIDALGO",
+      "Frecuencia": 8
+    },
+    {
+      "Localidad": "SAN ANTONIO XLUCH",
+      "Frecuencia": 8
+    },
+    {
+      "Localidad": "UNIDAD MORELOS",
+      "Frecuencia": 8
+    },
+    {
+      "Localidad": "SALVADOR ALVARADO",
+      "Frecuencia": 8
+    },
+    {
+      "Localidad": "POLIGONO 108",
+      "Frecuencia": 8
+    },
+    {
+      "Localidad": "EMILIO PORTES GIL",
+      "Frecuencia": 9
+    },
+    {
+      "Localidad": "MARIA LUISA",
+      "Frecuencia": 9
+    },
+    {
+      "Localidad": "NUEVA MULSAY",
+      "Frecuencia": 9
+    },
+    {
+      "Localidad": "CORTES SARMIENTO",
+      "Frecuencia": 9
+    },
+    {
+      "Localidad": "AZCORRA",
+      "Frecuencia": 9
+    },
+    {
+      "Localidad": "DOLORES OTERO",
+      "Frecuencia": 9
+    },
+    {
+      "Localidad": "VERGEL",
+      "Frecuencia": 9
+    },
+    {
+      "Localidad": " CHEUMAN",
+      "Frecuencia": 11
+    },
+    {
+      "Localidad": "CANTO",
+      "Frecuencia": 11
+    },
+    {
+      "Localidad": "FLOR DE MAYO",
+      "Frecuencia": 11
+    },
+    {
+      "Localidad": "MELCHOR OCAMPO I",
+      "Frecuencia": 11
+    },
+    {
+      "Localidad": "INDUSTRIAL",
+      "Frecuencia": 11
+    },
+    {
+      "Localidad": "NUEVA MAYAPAN",
+      "Frecuencia": 12
+    },
+    {
+      "Localidad": "BENITO JUAREZ ORIENTE",
+      "Frecuencia": 12
+    },
+    {
+      "Localidad": "CINCO COLONIAS",
+      "Frecuencia": 12
+    },
+    {
+      "Localidad": "MULSAY",
+      "Frecuencia": 12
+    },
+    {
+      "Localidad": "CASTILLA CAMARA",
+      "Frecuencia": 13
+    },
+    {
+      "Localidad": "MELCHOR OCAMPO II",
+      "Frecuencia": 13
+    },
+    {
+      "Localidad": "MAYAPAN",
+      "Frecuencia": 14
+    },
+    {
+      "Localidad": "SAN JOSE VERGEL",
+      "Frecuencia": 14
+    },
+    {
+      "Localidad": "CHUMINOPOLIS",
+      "Frecuencia": 15
+    },
+    {
+      "Localidad": "ADOLFO LOPEZ MATEOS",
+      "Frecuencia": 15
+    },
+    {
+      "Localidad": "SALVADOR ALVARADO OTE",
+      "Frecuencia": 15
+    },
+    {
+      "Localidad": "VERGEL II",
+      "Frecuencia": 17
+    },
+    {
+      "Localidad": "DELIO MORENO CANTON",
+      "Frecuencia": 18
+    },
+    {
+      "Localidad": "MIRAFLORES",
+      "Frecuencia": 19
+    },
+    {
+      "Localidad": "MORELOS ORIENTE",
+      "Frecuencia": 23
+    },
+    {
+      "Localidad": "COL. SALVADOR ALVARADO ORIENTE",
+      "Frecuencia": 24
+    },
+    {
+      "Localidad": "ESPERANZA",
+      "Frecuencia": 25
+    },
+    {
+      "Localidad": "MELITON SALAZAR",
+      "Frecuencia": 27
+    },
+    {
+      "Localidad": "MANUEL AVILA CAMACHO",
+      "Frecuencia": 28
+    },
+    {
+      "Localidad": "EMILIANO ZAPATA ORIENTE",
+      "Frecuencia": 33
+    },
+    {
+      "Localidad": "NUEVA PACABTUN",
+      "Frecuencia": 34
+    },
+    {
+      "Localidad": "CHICHEN ITZA",
+      "Frecuencia": 39
+    },
+    {
+      "Localidad": "SAN CAMILO",
+      "Frecuencia": 43
+    },
+    {
+      "Localidad": "LAZARO CARDENAS",
+      "Frecuencia": 49
+    },
+    {
+      "Localidad": "CENTRO",
+      "Frecuencia": 49
+    },
+    {
+      "Localidad": "NUEVA CHICHEN ITZA",
+      "Frecuencia": 51
+    },
+    {
+      "Localidad": "LOS REYES",
+      "Frecuencia": 54
+    },
+    {
+      "Localidad": "FRANCISCO VILLA ORIENTE",
+      "Frecuencia": 55
+    },
+    {
+      "Localidad": "SALVADOR ALVARADO ORIENTE",
+      "Frecuencia": 57
+    },
+    {
+      "Localidad": "MELCHOR OCAMPO",
+      "Frecuencia": 59
+    },
+    {
+      "Localidad": "AMALIA SOLORZANO",
+      "Frecuencia": 109
+    },
+    {
+      "Localidad": "PACABTUN",
+      "Frecuencia": 170
+    },
+    {
+      "Localidad": "FIDEL VELAZQUEZ",
+      "Frecuencia": 206
+    }
+  ]
+  
