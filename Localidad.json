@@ -1,9 +1,5 @@
 [
     {
-      "Localidad": "Otro",
-      "Frecuencia": 289
-    },
-    {
       "Localidad": "AVILA CAMACHO",
       "Frecuencia": 4
     },
@@ -314,6 +310,10 @@
     {
       "Localidad": "FIDEL VELAZQUEZ",
       "Frecuencia": 206
+    },
+    {
+      "Localidad": "OTRO",
+      "Frecuencia": 289
     }
   ]
   
