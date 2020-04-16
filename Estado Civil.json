@@ -4,6 +4,14 @@
       "Frecuencia": 836
     },
     {
+        "Estado Civil": "Viudo (a)",
+        "Frecuencia": 606
+      },
+    {
+        "Estado Civil": "Soltero (a )",
+        "Frecuencia": 176
+    },
+    {
       "Estado Civil": "Concubinato",
       "Frecuencia": 143
     },
@@ -11,17 +19,9 @@
       "Estado Civil": "Divorciado (a)",
       "Frecuencia": 88
     },
-    {
-      "Estado Civil": "Soltero (a )",
-      "Frecuencia": 176
-    },
+
     {
       "Estado Civil": "Unión Libre",
       "Frecuencia": 76
-    },
-    {
-      "Estado Civil": "Viudo (a)",
-      "Frecuencia": 606
     }
   ]
-  
