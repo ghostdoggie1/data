@@ -1,0 +1,63 @@
+[
+    {
+      from: "Hombres",
+      to: "Casado (a)",
+      value: 257
+    },
+    {
+      from: "Hombres",
+      to: "Concubinato",
+      value: 13
+    },
+    {
+      from: "Hombres",
+      to: "Divorciado (a)",
+      value: 11
+    },
+    {
+      from: "Hombres",
+      to: "Soltero (a )",
+      value: 36
+    },
+    {
+      from: "Hombres",
+      to: "Unión Libre",
+      value: 14
+    },
+    {
+      from: "Hombres",
+      to: "Viudo (a)",
+      value: 86
+    },
+    {
+      from: "Mujeres",
+      to: "Casado (a)",
+      value: 579
+    },
+    {
+      from: "Mujeres",
+      to: "Concubinato",
+      value: 130
+    },
+    {
+      from: "Mujeres",
+      to: "Divorciado (a)",
+      value: 77
+    },
+    {
+      from: "Mujeres",
+      to: "Soltero (a )",
+      value: 140
+    },
+    {
+      from: "Mujeres",
+      to: "Unión Libre",
+      value: 62
+    },
+    {
+      from: "Mujeres",
+      to: "Viudo (a)",
+      value: 520
+    }
+  ]
+  
