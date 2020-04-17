@@ -1,10 +1,10 @@
 [
     {
-      "Sexo": "H",
+      "Sexo": "Hombre",
       "Frecuencia": 417
     },
     {
-      "Sexo": "M",
+      "Sexo": "Mujer",
       "Frecuencia": 1508
     }
   ]
